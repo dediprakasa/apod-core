@@ -14,7 +14,7 @@ s.author = { "Dedi Prakasa" => "dedprakasa@gmail.com" }
  
 s.homepage = "https://github.com/dediprakasa/apod-core"
  
-s.source = { :git => "https://github.com/dediprakasa/apod-core.git", 
+s.source = { :git => "git@github.com:dediprakasa/apod-core.git", 
 :tag => "#{s.version}" }
  
 s.framework = "SwiftUI"
